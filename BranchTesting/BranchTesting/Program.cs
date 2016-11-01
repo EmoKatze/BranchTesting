@@ -10,6 +10,8 @@ namespace BranchTesting
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("FeaterOne Test");
+            Console.ReadLine();
         }
     }
 }
